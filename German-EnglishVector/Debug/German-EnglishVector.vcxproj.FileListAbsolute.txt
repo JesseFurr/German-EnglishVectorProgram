@@ -1,0 +1,3 @@
+C:\Users\jesse\source\repos\German-EnglishVector\Debug\German-EnglishVector.exe
+C:\Users\jesse\source\repos\German-EnglishVector\Debug\German-EnglishVector.pdb
+C:\Users\jesse\Desktop\USB\C++ stuff\repos\German-EnglishVector(JesseFurr ITSE 2331)\Debug\German-EnglishVector.exe
